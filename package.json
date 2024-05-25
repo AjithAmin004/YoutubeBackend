@@ -1,0 +1,20 @@
+{
+  "name": "youtubebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjithAmin004/YoutubeBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjithAmin004/YoutubeBackend/issues"
+  },
+  "homepage": "https://github.com/AjithAmin004/YoutubeBackend#readme"
+}
